@@ -33,4 +33,8 @@ I’m excited to dive deep into Ballerina, exploring its unique features and cap
 
 👉 **HTTP methods**: Started off by getting a simple Hello World!, to sending JSON data using POST method ang getting a reponse.
 
-
+## <a name="Quick Start">🤸 Quick Start</a>
+- Make sure to checked ballerina is  installed if not install it using official page.
+- Clone tho project to run locally
+- To run type bal run in the terminal and enter
+<p>(Note: You can use a tool like Postman to test and verify the API requests.)</p>
